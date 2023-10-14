@@ -1,0 +1,18 @@
+#rectangle {
+    width: 400px;
+    height: 750px;
+    background-color: grey;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+    margin-left: 30px;
+}
+
+h1 {
+    color: white;
+    margin-left: 30px;
+}
+
